@@ -6,3 +6,5 @@ Link to paper: https://www.sciencedirect.com/science/article/abs/pii/S1071581921
 Link to arxiv version: https://arxiv.org/pdf/2002.08455.pdf
 
 Source code for the Matrix-based Test using Microsoft .NET framework version 4.6.1
+
+The file "Matrix_based_test.jpg" shows the screenshot of the application. You need to enter a "User ID", then select "Testing Mode" and "Difficulty Level" then the application starts automatically. You can then start the test by clicking on the highlighted button in green.
