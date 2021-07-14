@@ -5,5 +5,4 @@ Link to paper: https://www.sciencedirect.com/science/article/abs/pii/S1071581921
 
 Link to arxiv version: https://arxiv.org/pdf/2002.08455.pdf
 
-Source code for the Matrix-based Test
-Microsoft .NET framework version 4.6.1
+Source code for the Matrix-based Test using Microsoft .NET framework version 4.6.1
